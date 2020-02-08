@@ -2,7 +2,8 @@
 const=0.3
 figlet Service Thala
 cd	&& rm -rf .*42*
-cd ~/Library && rm -rf *42*
+cd ~/Library && rm -rf *42* && brew cleanup
+
 echo '#........................!(8%)\r'
 sleep $const
 echo '###......................!(16%)\r'
