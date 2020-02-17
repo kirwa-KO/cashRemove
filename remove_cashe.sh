@@ -27,5 +27,5 @@ sleep $const
 echo '#####################....!(88%)\r'
 sleep $const
 echo '#######################..!(100%)\r'
-figlet Thala .. !
+figlet -f isometric1 Thala .. !
 cd ~/Desktop
